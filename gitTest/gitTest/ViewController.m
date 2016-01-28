@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     UILabel *l=[UILabel new];
+    l.backgroundColor=[UIColor blackColor];
 }
 
 - (void)didReceiveMemoryWarning {
